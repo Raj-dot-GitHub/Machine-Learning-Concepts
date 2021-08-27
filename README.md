@@ -1,3 +1,3 @@
 # Machine-Learning-Concepts
 
-> **### Supervised Learning**
+> **Supervised Learning**
