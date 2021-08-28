@@ -1,4 +1,5 @@
 # Machine-Learning-Concepts
+This repository contains important machine learning concepts explained through blogs, videos, notes, etc. The sections will get updated with new materials regularly. Also this resource list is no way comprehensive. So stay calm and keep learning. 
 
 ## **Supervised Learning**
 
