@@ -7,3 +7,4 @@
 >   2. [Commonly used regression techniques.](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/#)
 >   3. **Bias & Variance Tradeoff**  ([Blog](https://www.analyticsvidhya.com/blog/2020/08/bias-and-variance-tradeoff-machine-learning/)) , ([Video](https://www.youtube.com/watch?v=EuBBz3bI-aA))
 >   4. [Ridge Regression.](https://www.youtube.com/watch?v=Q81RR3yKn30) (Video by Statquest)
+>   5. [Lasso Regression.](https://www.youtube.com/watch?v=NGf0voTMlcs&t=1s) (Video by Statquest)
