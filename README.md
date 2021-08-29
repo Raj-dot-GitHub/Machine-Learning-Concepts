@@ -1,7 +1,7 @@
 # Machine-Learning-Concepts
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/78068342/131261121-c234d021-e413-4a61-ad10-06fc7da050d1.png" alt="Sublime's custom image"/ width = "450" height = "400">
+  <img src="https://user-images.githubusercontent.com/78068342/131261121-c234d021-e413-4a61-ad10-06fc7da050d1.png" alt="Sublime's custom image"/ width = "400" height = "350">
 </p>
 
 This repository contains important machine learning concepts explained through blogs, videos, notes, etc. The sections will get updated with new materials regularly. Also this resource list is no way comprehensive. So keeping that in mind let's learn something new!! 
