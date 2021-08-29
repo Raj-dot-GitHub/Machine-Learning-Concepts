@@ -1,7 +1,7 @@
 # Machine-Learning-Concepts
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="" alt="Sublime's custom image"/>
 </p>
 
 This repository contains important machine learning concepts explained through blogs, videos, notes, etc. The sections will get updated with new materials regularly. Also this resource list is no way comprehensive. So keeping that in mind let's learn something new!! 
