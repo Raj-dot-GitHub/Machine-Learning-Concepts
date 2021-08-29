@@ -1,5 +1,7 @@
 # Machine-Learning-Concepts
 
+![images](https://user-images.githubusercontent.com/78068342/131260334-9a0abd26-2bc1-43f8-a429-d59eebecd01b.jpg)
+
 This repository contains important machine learning concepts explained through blogs, videos, notes, etc. The sections will get updated with new materials regularly. Also this resource list is no way comprehensive. So keeping that in mind let's learn something new!! 
 
 ## **Supervised Learning**
