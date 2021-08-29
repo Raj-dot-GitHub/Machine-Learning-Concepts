@@ -11,3 +11,4 @@ This repository contains important machine learning concepts explained through b
 >   5. [Lasso Regression.](https://www.youtube.com/watch?v=NGf0voTMlcs&t=1s) (Video by Statquest)
 >   6. **Ridge vs Lasso Regression. Which one is better?** ([Blog](https://favtutor.com/blogs/ridge-and-lasso-regression)) , ([Video](https://www.youtube.com/watch?v=Xm2C_gTAl8c&t=36s))
 >   7. [Elastic-Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) (Video by Statquest)
+>   8. [Polynomial Regression](https://www.analyticsvidhya.com/blog/2020/03/polynomial-regression-python/) (Blog by Analytics Vidhya).
