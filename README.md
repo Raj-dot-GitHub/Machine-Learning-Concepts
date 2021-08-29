@@ -13,7 +13,7 @@ This repository contains important machine learning concepts explained through b
 **In this section of our journey we will learn about a simple but very important use case of machine learning which is Regression Analysis. Below is an ordered list of resources to have an excellent grasp of Regression Techniques. Follow them as it is.**
 
 >   1. [Regression Analysis Notes](https://drive.google.com/file/d/1iFfc0MkECHluD6whkY8HZdtWLqNk0hVY/view?usp=sharing) (Notes on Basics of Regression analysis with explanations of Simple Linear & Multiple Linear Regression with some important assumptions from the Somaiya University Vidyavihar).
->   2. [Commonly used regression techniques.](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/#)
+>   2. [Commonly used regression techniques.](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/#) (Blog by Analytics Vidhya).
 >   3. **Bias & Variance Tradeoff**  ([Blog](https://www.analyticsvidhya.com/blog/2020/08/bias-and-variance-tradeoff-machine-learning/)) , ([Video](https://www.youtube.com/watch?v=EuBBz3bI-aA))
 >   4. [Ridge Regression.](https://www.youtube.com/watch?v=Q81RR3yKn30) (Video by Statquest)
 >   5. [Lasso Regression.](https://www.youtube.com/watch?v=NGf0voTMlcs&t=1s) (Video by Statquest)
