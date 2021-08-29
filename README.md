@@ -10,3 +10,4 @@ This repository contains important machine learning concepts explained through b
 >   4. [Ridge Regression.](https://www.youtube.com/watch?v=Q81RR3yKn30) (Video by Statquest)
 >   5. [Lasso Regression.](https://www.youtube.com/watch?v=NGf0voTMlcs&t=1s) (Video by Statquest)
 >   6. **Ridge vs Lasso Regression. Which one is better?** ([Blog](https://favtutor.com/blogs/ridge-and-lasso-regression)) , ([Video](https://www.youtube.com/watch?v=Xm2C_gTAl8c&t=36s))
+>   7. [Elastic-Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) (Video by Statquest)
