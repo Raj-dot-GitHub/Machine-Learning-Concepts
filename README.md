@@ -1,4 +1,6 @@
 # Machine-Learning-Concepts
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Ffuture-financial-technology-controlled-by-ai-robot-using-machine-learning_31965-10328.jpg%3Fsize%3D626%26ext%3Djpg%26ga%3DGA1.2.426003149.1628985600&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Ffuture-financial-technology-controlled-by-ai-robot-using-machine-learning_10496896.htm&tbnid=xaLcELP66wxARM&vet=10CBkQMyjTAWoXChMImIu38ePW8gIVAAAAAB0AAAAAEAM..i&docid=N0ENOCg4ZTd2dM&w=626&h=352&itg=1&q=machine%20learning%20images&hl=en-GB&ved=0CBkQMyjTAWoXChMImIu38ePW8gIVAAAAAB0AAAAAEAM 
+
 This repository contains important machine learning concepts explained through blogs, videos, notes, etc. The sections will get updated with new materials regularly. Also this resource list is no way comprehensive. So keeping that in mind let's learn something new!! 
 
 ## **Supervised Learning**
