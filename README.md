@@ -1,6 +1,6 @@
 # Machine-Learning-Concepts
 
-<p align="center" width = "100", height = "100">
+<p align="center" width = "1000" height = "1000">
   <img src="https://user-images.githubusercontent.com/78068342/131260621-330a3c96-bb5b-4cc1-8fcd-7ff63b8f9582.jpg" alt="Sublime's custom image"/>
 </p>
 
