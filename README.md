@@ -21,3 +21,4 @@ This repository contains important machine learning concepts explained through b
 >   7. [Elastic-Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) (Video by Statquest)
 >   8. [Polynomial Regression](https://www.analyticsvidhya.com/blog/2020/03/polynomial-regression-python/) (Blog by Analytics Vidhya).
 >   9. [Stepwise Regression](https://www.investopedia.com/terms/s/stepwise-regression.asp) (Blog by Investopedia).
+>  10. [Commonly used evaluation metrics for Regression models](https://www.analyticsvidhya.com/blog/2021/05/know-the-best-evaluation-metrics-for-your-regression-model/) (Blog by Analytics Vidhya).
