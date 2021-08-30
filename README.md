@@ -10,7 +10,7 @@ This repository contains important machine learning concepts explained through b
 
 #### **Regression Analysis:-**
 
-**In this section of our journey we will learn about a simple but very important use case of machine learning which is Regression Analysis. Below is an ordered list of resources to have an excellent grasp of Regression Techniques. Follow them as it is.**
+**In this section of our journey we will learn about a simple but very important use case of machine learning which is Regression Analysis. Below is an ordered list of resources to have an excellent grasp of Regression Techniques commonly used in the industry. In between you will find some short but important topics which you cannot fail to skip. Lastly follow this resources as it is.**
 
 >   1. [Regression Analysis Notes](https://drive.google.com/file/d/1iFfc0MkECHluD6whkY8HZdtWLqNk0hVY/view?usp=sharing) (Notes on Basics of Regression analysis with explanations of Simple Linear & Multiple Linear Regression with some important assumptions from the Somaiya University Vidyavihar).
 >   2. [Commonly used regression techniques.](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/#) (Blog by Analytics Vidhya).
@@ -20,3 +20,4 @@ This repository contains important machine learning concepts explained through b
 >   6. **Ridge vs Lasso Regression. Which one is better?** ([Blog](https://favtutor.com/blogs/ridge-and-lasso-regression)) , ([Video](https://www.youtube.com/watch?v=Xm2C_gTAl8c&t=36s))
 >   7. [Elastic-Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) (Video by Statquest)
 >   8. [Polynomial Regression](https://www.analyticsvidhya.com/blog/2020/03/polynomial-regression-python/) (Blog by Analytics Vidhya).
+>   9. [Stepwise Regression](https://www.investopedia.com/terms/s/stepwise-regression.asp) (Blog by Investopedia).
