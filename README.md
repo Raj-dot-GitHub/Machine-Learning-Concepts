@@ -12,7 +12,7 @@ This repository contains important machine learning concepts explained through b
 
 **In this section of our journey we will learn about a simple but very important use case of machine learning which is Regression Analysis. Below is an ordered list of resources to have an excellent grasp of Regression Techniques commonly used in the industry. In between you will find some short but important topics which you cannot fail to skip. Lastly follow this resources as it is.**
 
->   1. [Regression Analysis Notes](https://drive.google.com/file/d/1iFfc0MkECHluD6whkY8HZdtWLqNk0hVY/view?usp=sharing) (This notes on regression analysis contains indepth knownledge of regression analysis and some important assumptions to follow on).
+>   1. [Regression Analysis Notes](https://drive.google.com/file/d/1iFfc0MkECHluD6whkY8HZdtWLqNk0hVY/view?usp=sharing) (This notes on regression analysis contains indepth knownledge of regression analysis and some important assumptions like Autocorrelation, Multicollinearity, Homoscedascity and normality to follow on).
 >   Alternatively, you can look at the these explanations..
 >    [Simple Linear Regression](https://www.scribbr.com/statistics/simple-linear-regression/) (Blog by Scribbr).
 >    [Multiple Linear Regression](https://www.investopedia.com/terms/m/mlr.asp) (Blog by Investopedia).
