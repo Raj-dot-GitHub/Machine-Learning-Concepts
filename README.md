@@ -25,3 +25,11 @@ This repository contains important machine learning concepts explained through b
 >   8. [Polynomial Regression](https://www.analyticsvidhya.com/blog/2020/03/polynomial-regression-python/) (Blog by Analytics Vidhya).
 >   9. [Stepwise Regression](https://www.investopedia.com/terms/s/stepwise-regression.asp) (Blog by Investopedia).
 >  10. [Commonly used evaluation metrics for Regression models](https://www.analyticsvidhya.com/blog/2021/05/know-the-best-evaluation-metrics-for-your-regression-model/) (Blog by Analytics Vidhya).
+
+## Classification:
+
+> [Why Linear Regression is not suitable for classification problems?](https://towardsdatascience.com/why-linear-regression-is-not-suitable-for-binary-classification-c64457be8e28)
+
+#### Logistic Regression:-
+
+> [Basics of Logistic Regression.](https://towardsdatascience.com/understanding-logistic-regression-9b02c2aec102). (Article from Towards Data Science).
