@@ -8,7 +8,7 @@ This repository contains important machine learning concepts explained through a
 
 ## **Supervised Learning**
 
-#### **Regression Analysis:-**
+### **Regression Analysis:-**
 
 **In this section of our journey we will learn about a simple but very important use case of machine learning which is Regression Analysis. Below is an ordered list of resources to have an excellent grasp of Regression Techniques commonly used in the industry. In between you will find some short but important topics which you cannot fail to skip. Lastly follow this resources as it is.**
 
