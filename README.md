@@ -6,6 +6,8 @@
 
 This repository contains important machine learning concepts explained through articles, videos, notes, etc. The sections will get updated with new materials regularly. Also this resource list is no way comprehensive. So keeping that in mind let's learn something new!! 
 
+####**[Different types of learning in machine learning.](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)**
+
 ## **Supervised Learning**
 
 ### **Regression Analysis:-**
