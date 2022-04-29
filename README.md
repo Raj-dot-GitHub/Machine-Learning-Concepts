@@ -17,17 +17,17 @@ To start with let's first explore the different types of learning in machine lea
 
 >   1. [Regression Analysis Notes](https://drive.google.com/file/d/1iFfc0MkECHluD6whkY8HZdtWLqNk0hVY/view?usp=sharing) (This notes on regression analysis contains indepth knownledge of regression analysis and some important assumptions like Autocorrelation, Multicollinearity, Homoscedascity and normality to follow on).
 >   Alternatively, you can look at the these explanations..
->    [Simple Linear Regression](https://www.scribbr.com/statistics/simple-linear-regression/) (Article by Scribbr).
->    [Multiple Linear Regression](https://www.investopedia.com/terms/m/mlr.asp) (Article by Investopedia).
+>   1. [Linear Regression.](https://realpython.com/linear-regression-in-python/)
 >   2. [Commonly used regression techniques.](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/#) (article by Analytics Vidhya).
 >   3. **Bias & Variance Tradeoff**  ([Blog](https://www.analyticsvidhya.com/blog/2020/08/bias-and-variance-tradeoff-machine-learning/)) , ([Video](https://www.youtube.com/watch?v=EuBBz3bI-aA))
 >   4. [Ridge Regression.](https://www.youtube.com/watch?v=Q81RR3yKn30) (Video by Statquest)
 >   5. [Lasso Regression.](https://www.youtube.com/watch?v=NGf0voTMlcs&t=1s) (Video by Statquest)
->   6. **Ridge vs Lasso Regression. Which one is better?** ([Blog](https://favtutor.com/blogs/ridge-and-lasso-regression)) , ([Video](https://www.youtube.com/watch?v=Xm2C_gTAl8c&t=36s))
->   7. [Elastic-Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) (Video by Statquest)
->   8. [Polynomial Regression](https://www.analyticsvidhya.com/blog/2020/03/polynomial-regression-python/) (Article by Analytics Vidhya).
->   9. [Stepwise Regression](https://www.investopedia.com/terms/s/stepwise-regression.asp) (Article by Investopedia).
->  10. [Commonly used evaluation metrics for Regression models](https://www.analyticsvidhya.com/blog/2021/05/know-the-best-evaluation-metrics-for-your-regression-model/) (Article by Analytics Vidhya).
+>   6. [Article on Ridge & Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/ridge-lasso-regression-python-complete-tutorial/) (Article by Analytics Vidhya)
+>   7. **Ridge vs Lasso Regression. Which one is better?** ([Blog](https://favtutor.com/blogs/ridge-and-lasso-regression)) , ([Video](https://www.youtube.com/watch?v=Xm2C_gTAl8c&t=36s))
+>   8. [Elastic-Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) (Video by Statquest)
+>   9. [Polynomial Regression](https://data36.com/polynomial-regression-python-scikit-learn/) (Article by Data36).
+>   10. [Stepwise Regression](https://www.investopedia.com/terms/s/stepwise-regression.asp) (Article by Investopedia).
+>   11. [Commonly used evaluation metrics for Regression models](https://www.analyticsvidhya.com/blog/2021/05/know-the-best-evaluation-metrics-for-your-regression-model/) (Article by Analytics Vidhya).
 
 ## Classification:
 
