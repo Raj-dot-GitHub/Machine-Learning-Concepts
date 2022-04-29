@@ -26,12 +26,12 @@ To start with let's first explore the different types of learning in machine lea
 >   7. **Ridge vs Lasso Regression. Which one is better?** ([Blog](https://favtutor.com/blogs/ridge-and-lasso-regression)) , ([Video](https://www.youtube.com/watch?v=Xm2C_gTAl8c&t=36s))
 >   8. [Elastic-Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) (Video by Statquest)
 >   9. [Polynomial Regression](https://data36.com/polynomial-regression-python-scikit-learn/) (Article by Data36).
->   10. [Stepwise Regression](https://www.investopedia.com/terms/s/stepwise-regression.asp) (Article by Investopedia).
+>   10. [Stepwise Regression](https://towardsdatascience.com/stepwise-regression-tutorial-in-python-ebf7c782c922) (Article from Towards Data Science).
 >   11. [Commonly used evaluation metrics for Regression models](https://www.analyticsvidhya.com/blog/2021/05/know-the-best-evaluation-metrics-for-your-regression-model/) (Article by Analytics Vidhya).
 
 ## Classification:
 
-> [Why Linear Regression is not suitable for classification problems?](https://towardsdatascience.com/why-linear-regression-is-not-suitable-for-binary-classification-c64457be8e28)
+> [Why Linear Regression is not suitable for classification problems?](https://towardsdatascience.com/why-linear-regression-is-not-suitable-for-binary-classification-c64457be8e28) (Article from Towards Data Science)
 
 #### Logistic Regression:-
 
