@@ -37,3 +37,4 @@ To start with let's first explore the different types of learning in machine lea
 #### Logistic Regression:-
 
 > [Basics of Logistic Regression.](https://towardsdatascience.com/understanding-logistic-regression-9b02c2aec102). (Article from Towards Data Science).
+> [implementation of Logistic Regression in Python.](https://realpython.com/logistic-regression-python/). (Article from Real Python).
