@@ -33,6 +33,7 @@ To start with let's first explore the different types of learning in machine lea
 ## Classification:
 
 > [Why Linear Regression is not suitable for classification problems?](https://towardsdatascience.com/why-linear-regression-is-not-suitable-for-binary-classification-c64457be8e28) (Article from Towards Data Science)
+> [Different Metrics for Classification Problems.](https://towardsdatascience.com/performance-metrics-for-classification-machine-learning-problems-97e7e774a007) (Article from Towards Data Science)
 
 #### Logistic Regression:-
 
