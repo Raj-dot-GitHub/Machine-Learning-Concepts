@@ -30,17 +30,17 @@ To start with let's first explore the different types of learning in machine lea
 >   10. [Stepwise Regression](https://towardsdatascience.com/stepwise-regression-tutorial-in-python-ebf7c782c922) (Article from Towards Data Science).
 >   11. [Commonly used evaluation metrics for Regression models](https://www.analyticsvidhya.com/blog/2021/05/know-the-best-evaluation-metrics-for-your-regression-model/) (Article by Analytics Vidhya).
 
-## Classification:
+## **Classification:**
 
 > [Why Linear Regression is not suitable for classification problems?](https://towardsdatascience.com/why-linear-regression-is-not-suitable-for-binary-classification-c64457be8e28) (Article from Towards Data Science)
 > 
 > [Different Metrics for Classification Problems.](https://towardsdatascience.com/performance-metrics-for-classification-machine-learning-problems-97e7e774a007) (Article from Towards Data Science)
 
-#### Logistic Regression:-
+### **Logistic Regression:-**
 
 >  1. [Basics of Logistic Regression.](https://towardsdatascience.com/understanding-logistic-regression-9b02c2aec102). (Article from Towards Data Science).
 >  2. [Implementation of Logistic Regression in Python.](https://realpython.com/logistic-regression-python/). (Article from Real Python).
 
-### Naive Bayes Algorithm:-
+### **Naive Bayes Algorithm:-**
 
 > [Implementation of Naive Bayes Algorithm in Python](https://www.javatpoint.com/machine-learning-naive-bayes-classifier). (Article by JavatPoint).
