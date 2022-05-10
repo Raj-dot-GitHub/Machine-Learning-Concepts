@@ -46,10 +46,10 @@ To start with let's first explore the different types of learning in machine lea
 > [Implementation of Naive Bayes Algorithm in Python](https://www.javatpoint.com/machine-learning-naive-bayes-classifier). (Article by JavatPoint).
 
 
-## **Ensemble Techniques:-**
+## **Ensemble Learning Techniques:-**
 
-> Below are some of the ensemble techniques widely used to solve various types of machine learning problems. Remember that ensemble techniques falls under Supervised learning.
-
+> Ensemble learning is a type of supervised machine learning that works on using multiple algorithms to predict the output. Below are some of the ensemble techniques widely used to solve various types of machine learning problems.
+> 
 ### **Decision Trees:-**
 
 > [Decision Trees Concept](https://www.youtube.com/watch?v=RVuy1ezN_qA) (Video by 5 min Engineering).
