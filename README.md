@@ -48,7 +48,7 @@ To start with let's first explore the different types of learning in machine lea
 
 ## **Ensemble Learning Techniques:-**
 
-> Ensemble learning is a type of supervised machine learning that works on using multiple algorithms to predict the output. Below are some of the ensemble techniques widely used to solve various types of machine learning problems.
+> **Ensemble learning is a type of supervised machine learning that works on using multiple algorithms to predict the output. Below are some of the ensemble techniques widely used to solve various types of machine learning problems.**
 > 
 ### **Decision Trees:-**
 
