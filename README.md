@@ -60,3 +60,8 @@ To start with let's first explore the different types of learning in machine lea
 > **Ensemble learning is a type of supervised machine learning that works on using multiple algorithms to predict the output. Below are some of the ensemble techniques widely used to solve various types of machine learning problems.**
 
 > [Ensemble Learning](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/) (Article by Analytics Vidhya).
+
+
+# **Unsupervised Learning :-**
+
+In Supervised learning, we had a 'Target' variable which we wanted to predict using different machine learning models. But, in Unsupervised Learning, we don't have a target variable, instead we try to find the relationships between records, check for similarity in the data, etc. 
